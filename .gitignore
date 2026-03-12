@@ -3,6 +3,7 @@
 
 # Maven build output
 target/
+consumer/target/
 
 # Java class files
 *.class
