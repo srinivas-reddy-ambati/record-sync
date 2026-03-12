@@ -1,0 +1,18 @@
+# Mac system files
+.DS_Store
+
+# Maven build output
+target/
+
+# Java class files
+*.class
+
+# Logs
+*.log
+
+# IDE files
+.vscode/
+.idea/
+
+# Temporary files
+*.tmp
